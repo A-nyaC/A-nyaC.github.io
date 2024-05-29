@@ -1,0 +1,86 @@
+body {
+    padding: 25px;
+    background-color:#799567;
+    color: #21341b;
+    font-size: 25px;
+    min-height: 100vh;
+    
+  }
+
+ 
+  nav {
+      background-color: #a7b593;
+      
+  }
+  h1 {
+      color:#f9ddd8;
+  }
+  h2 {
+    color:#21341b;
+}
+  #toggle {
+      background-color:#f9ddd8;
+      
+  }
+  .center {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
+  #footer {
+    font-size: 15px;
+    padding: 10px;
+    background-color:#f3baba;
+    text-align: center;
+    margin-top: auto;
+
+  }
+  .carousel-inner{
+   border-radius: 5%;
+  }
+
+
+  .card-text {
+    text-align: center;
+    
+  }
+  .card-title {
+    text-align: center;
+
+  }
+  .card-body {
+    background-color: antiquewhite;
+    color:#ac5252;
+    flex:1 300px;
+  }
+  
+
+  .row {
+    display:flex;
+    
+  }
+  #first{
+    padding-bottom: 5px;
+    background-color:antiquewhite;
+  }
+  #second{
+    padding-bottom: 180px;
+    background-color:antiquewhite;
+  }
+  .d-block {
+   width: 20%;
+   height:20%;
+
+  }
+h3 {
+  color:#f9ddd8
+}
+  .dark-mode h1,.dark-mode h2,.dark-mode h3,.dark-mode h4,.dark-mode h5, .dark-mode li, .dark-mode button, .dark-mode nav, .dark-mode .card, .dark-mode h1, .dark-mode body,.dark-mode p, .dark-mode .card-body, .dark-mode #footer, .dark-mode #toggle,.dark-mode #first, .dark-mode #second{  
+    background-color: black;
+    color: white;
+  }
+ 
+  
+  
