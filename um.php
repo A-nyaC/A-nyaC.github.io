@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = $_POST["subject"];
     $comment = $_POST["comment"];
 
-    $to= "carran@kean.edu";
+    $to= "10148ac@gmail.com";
 
     $headers = "From: ". $email . "\r\n";
 
